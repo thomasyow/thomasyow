@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @thomasyow
-- 👀 Interested in ML applications.
-- 🌱 Recently started studying ML and DS textbooks.
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me via x.com/YowThomas
+- 👋 @thomasyow, nterested in ML applications.
 
 <!---
 thomasyow/thomasyow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
