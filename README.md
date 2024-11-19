@@ -1,4 +1,4 @@
-- 👋 @thomasyow, nterested in ML applications.
+- 👋 @thomasyow, interested in ML applications.
 
 <!---
 thomasyow/thomasyow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
